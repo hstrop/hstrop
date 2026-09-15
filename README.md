@@ -24,6 +24,18 @@ A LangGraph ReAct travel assistant that connects weather, sandboxed file writing
 
 `LangGraph` `MCP` `ReAct` `FastAPI` `Tool Calling` `Safety Boundaries`
 
+### [CloudAgent Customer Support](https://github.com/hstrop/cloudagent-customer-support)
+
+An evidence-first support workflow that makes intent classification, knowledge retrieval, sensitive-data policy gates, and human handoff visible in the API and UI.
+
+`Python` `FastAPI` `Policy Gate` `Human Handoff` `Evidence` `Session Lifecycle`
+
+### [DeepResearch Multi-Agent](https://github.com/hstrop/deepresearch-multi-agent)
+
+An offline-first research desk with explicit Planner, Researcher, Critic, and Synthesizer stages. It produces source-aware sections and an auditable agent trace before any live-search connector is added.
+
+`Python` `FastAPI` `Multi-Agent` `Research Workflow` `Citations` `Evaluation`
+
 ## How I build
 
 - **Offline-first:** every portfolio demo has a deterministic local path before optional hosted integrations.
