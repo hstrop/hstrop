@@ -4,6 +4,8 @@ I build practical AI products that connect retrieval, agents, tools, and clear u
 
 **Open to global AI/LLM application internships** · Python · FastAPI · RAG · LangGraph · MCP · Product-minded engineering
 
+Portfolio site: [hstrop.github.io/hstrop](https://hstrop.github.io/hstrop/)
+
 ## Selected work
 
 ### [DocPilot RAG](https://github.com/hstrop/docpilot-rag)
